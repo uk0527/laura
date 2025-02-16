@@ -9,28 +9,6 @@
 ✅ Speech Synthesis – Converts AI responses to speech
 ✅ Knowledge Retrieval – Uses FAISS for relevant information
 
-📂 Project Structure
-bash
-Copy
-Edit
-laura/
-│── database/
-│   ├── meetings.db        # Stores meeting schedules
-│   ├── user_memory.db     # Stores user chat history
-│── static/                 # Stores generated audio files
-│── .venv/                  # Virtual environment (optional)
-│── .env                    # API keys & environment variables
-│── app.py                  # Main Flask app handling Twilio calls
-│── ai_response.py          # Generates AI responses
-│── whisper_stt.py          # Handles speech-to-text
-│── knowledge_base.py       # Manages knowledge retrieval
-│── calendar_local.py       # Manages scheduling
-│── language_detection.py   # Detects & translates language
-│── generate_audio.py       # Tests text-to-speech
-│── coqui_tts.py            # Handles Coqui TTS (alternative)
-│── twilio_setup.py         # Handles Twilio configurations
-│── requirements.txt        # Required dependencies
-│── README.md               # Project documentation
 🛠️ Installation & Setup
 1️⃣ Install Dependencies
 sh
