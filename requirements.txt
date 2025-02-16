@@ -1,0 +1,11 @@
+tts
+whisper
+openai
+sqlite3
+faiss-cpu
+argostranslate
+pydub
+requests
+flask
+twilio
+python-dotenv
