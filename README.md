@@ -3,10 +3,15 @@
 
 📜 Features
 ✅ Twilio Integration – Handles incoming calls & transcribes speech
+
 ✅ AI-Powered Responses – Uses OpenRouter AI to generate answers
+
 ✅ Meeting Scheduling – Checks availability & books meetings
+
 ✅ Memory Storage – Saves past user conversations
+
 ✅ Speech Synthesis – Converts AI responses to speech
+
 ✅ Knowledge Retrieval – Uses FAISS for relevant information
 
 🛠️ Installation & Setup
